@@ -1,11 +1,16 @@
 _repo: Spiritual-Folk-Songs-of-Early-America-Two-Hundred-and-Fifty-Tunes-and-Texts-With-an-Introduct__59884
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 59884-h/images/cover.jpg
 creator:
   author:
     agent_name: Jackson, George Pullen
     gutenberg_agent_id: '50675'
     url: http://www.gutenberg.org/2009/agents/50675
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59884#Spiritual-Folk-Songs-of-Early-America-Two-Hundred-and-Fifty-Tunes-and-Texts-With-an-Introduct_
 gutenberg_issued: '2019-07-10'
 gutenberg_type: Text
 identifiers:
